@@ -1,15 +1,16 @@
 {  
-  "name": "zyq2012/sungoal",  
-  "description": "Yii2 zyq2012 sungoal",  
+  "name": "zyq2012/zhanqu",
+  "description": "Yii2 zyq2012 zhanqu",
   "keywords": [  
     "yii2",  
-    "sungoal"  
+    "zhanqu",
+    "ticket"
   ],  
-  "homepage": "https://github.com/zyq2012/sungoal",  
-  "type": "yii2-extension",  
-  "license": "MIT",  
+  "homepage": "https://github.com/zyq2012/yii2_zhanqu",
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
   "support": {  
-    "source": "https://github.com/zyq2012/sungoal"  
+    "source": "https://github.com/zyq2012/yii2_zhanqu"
   },  
   "authors": [  
     {  
@@ -25,7 +26,7 @@
   },  
   "autoload": {  
     "psr-4": {  
-      "zyq2012\\": ""  
+      "zhanqu\\": ""
     }  
   },  
   "config": {  
